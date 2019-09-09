@@ -1,6 +1,8 @@
 {
   "name": "FedresursParserJs",
   "version": "1.0.0",
-  "dependencies": {"axios": "latest"
+  "dependencies": {
+    "axios": "latest",
+    "mongodb": "^3.3.0"
   }
 }
